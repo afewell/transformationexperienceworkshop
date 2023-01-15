@@ -1,0 +1,12 @@
+- login to desktop
+- use firefox to view tap-gui
+  - maybe show a couple things in tap gui here briefly, but would rather expose gui features during day-in-the-life type exercises
+- review app accelerators page, and review some accelerator via web gui, but do not deploy
+- open vscode, review app accelerators extension
+- navigate to and use some app accelerator, ideally automatically creating git repo
+- deploy application (to developer namespace?)
+  - we only have one cluster so cant deploy to seperate dev and prod cluster, but can we have like a dev and prod namespace to simulate? 
+  - Or can we just simplify past dev/prod constraints as this lab should be short/sweet, so this may be a possible simplification but need to investigate further
+- make some modification in live view?
+- deploy application (to prod namespace?)
+
